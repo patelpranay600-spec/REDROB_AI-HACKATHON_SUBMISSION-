@@ -5,6 +5,10 @@ RedRob AI: Intelligence Engine
 
 RedRob AI is a decoupled, multi-stage machine learning pipeline designed to process high-volume unstructured resume data to identify top-tier ML Engineering talent. Unlike traditional keyword-based systems, our engine utilizes LLM-driven evidence reasoning, cross-encoder reranking, and dynamic ensemble math to simulate a senior recruiter’s decision-making process at scale.
 
+# COLAB NOTEBOOK HAS THE WHOLE CODE AND GOOGLE DRIVE LINK INSIDE MAKE SURE TO ADD SHARED FOLDER ADD INSIDE YOUR EVALUATING SYSTEM GOOGLE DRIVE
+
+# AS PART OF TRANSPERANCY WE HAVE SHARED ONE ANOTHER SUBSIDARY NOTEBOOK WHICH WAS ORIGNALLY USED BY OUR TEAM(RAW NOTEBOOK)--THIS NOTEBOOK HAS SINGLE CELL SHARED PIPELINE WHILE THE FINAL SUBMISSION IS DECOPULED REPLICA OF SAME..
+
 📂 Shared Drive Access
 
 For ease of implementation and immediate reproducibility, a shared Google Drive folder is provided containing all pre-downloaded models, datasets, and JD configuration files. Please ensure this drive is mounted in your environment before executing the pipeline to ensure seamless access to all assets.
